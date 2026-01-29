@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/1-API/">
+    <Project Path="APIPagamento/APIPagamento.csproj" />
+  </Folder>
+  <Folder Name="/2-Application/">
+    <Project Path="Pagemento.Application/Pagemento.Application.csproj" />
+  </Folder>
+  <Folder Name="/3-Domain/">
+    <Project Path="Pagamento.Domain/Pagamento.Domain.csproj" />
+  </Folder>
+  <Folder Name="/4-Infrastructure/">
+    <Project Path="Pagamento.Infrastructure/Pagamento.Infrastructure.csproj" />
+  </Folder>
+</Solution>

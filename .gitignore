@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+**/bin/
+**/obj/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Azure Pipelines
+.vscode/
